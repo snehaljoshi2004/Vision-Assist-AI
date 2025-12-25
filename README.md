@@ -34,6 +34,15 @@ Vision Assist AI provides real-time environmental awareness by detecting objects
 - **Hardware**: Single monocular webcam
 
 ---
+## Dataset link
+- COCO dataset reference:
+  https://cocodataset.org/
+- Pen Detection dataset refrence:
+  https://universe.roboflow.com/dddd-aitpc/pen-kkqzs
+- Staircase Detection dataset reference:
+  https://universe.roboflow.com/university-7legb/staircase-detection-jnjoz
+
+---
 ## Installation
 ### Prerequisites
 - Python 3.8 or higher
